@@ -12,8 +12,9 @@ HTML, CSS and JavaScript.
 Some things that I would like to improve upon, once I have learnt the necessary skills, are as follows:
 * Allow users to select the size of the field. At the moment it is set to 3x4.
 * Have the movement work by just pressing keys, rather than needing the prompt box every time.
-* Find a way to make a version that works on touch-screen devices.
+* If the user goes out of bounds, display a red X in the position where they tried to navigate along with the "You lose!" message.
 * Add in the functionality to only print fields where a solution (i.e. clear path to the hat) is possible.
+* Find a way to make a version that works on touch-screen devices.
 * Allow users to change difficulty levels by, for example, increaasing or decreasing the amount of holes in the field, or starting somewhere other than the top left corner.
 ## Licence
 Please see license document.
