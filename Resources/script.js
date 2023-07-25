@@ -80,7 +80,7 @@ function nextMove() {
     //Game.field[y][x] = "❌";
     //board.innerHTML = "";
     //Game.print();
-    result.innerHTML = "Out of bounds - you lose! Refresh to play again.";
+    result.innerHTML = "Out of bounds - you lose! <br>Refresh to play again.";
     cont = false;
     document.removeEventListener("keydown", nextMove);
   } else if (Game.field[y][x] === "👒") {
